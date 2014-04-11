@@ -1,0 +1,48 @@
+/*ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0;
+}
+/*li {
+	display: inline;*/
+}
+a {
+	display: inline-block;*/
+}
+
+.navbar ul {
+	list-style-type: none;
+	background: #2d2d2d;
+	margin: 0;
+	padding: 0;
+}
+.navbar li {
+	display: inline-block;
+	float: right;
+}
+.navbar a {
+	display:block;
+	padding: 10px
+	border: 2px 0 0 0 solid transparent;
+}
+
+.main {
+	text-align:center;
+	width: 100%;
+}
+
+#searchbar {
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#footer {
+	border: dashed;
+}
+/*.left-footer {
+	float:left;
+}
+.right-footer {
+	float: right;
+}*/
